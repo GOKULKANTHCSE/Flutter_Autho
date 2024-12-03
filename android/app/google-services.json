@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "41500044761",
+    "project_id": "fluttertraing",
+    "storage_bucket": "fluttertraing.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41500044761:android:7cd807e61dc28bb0db7dc8",
+        "android_client_info": {
+          "package_name": "com.example.goku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_WXHmy_cS1CP_q_t6sdTS2THiXy5OUug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
